@@ -1,13 +1,8 @@
 # 🎲 DeFi Multi-Agent Yield Optimizer & Raffle System
 
-## � HACKATHON SUBMISSION STATUS: **COMPLETE** ✅
-
-**All objectives achieved! 3 continuous raffle rounds successfully completed with real-time VRF integration.**
-
 - **Live Contract:** [0x83F2D33Fa7D190170105d0fF07e04Dee808765cC](https://sepolia.etherscan.io/address/0x83F2D33Fa7D190170105d0fF07e04Dee808765cC)
 - **Network:** Sepolia Testnet
-- **Status:** Production Ready & Fully Tested
-- **Demo:** Available at `http://localhost:3001/raffle`
+
 
 ## �🏆 Chainlink Hackathon 2025 Submission
 
@@ -189,7 +184,6 @@ NEXT_PUBLIC_ENABLE_TESTNETS=true
 - **Multi-Chain**: Cross-chain compatibility
 - **Safety**: Emergency withdrawal features
 
-## 🏆 Hackathon Achievements
 
 ### ✅ Completed Features
 - Full VRF v2.5 raffle implementation
@@ -238,25 +232,10 @@ NEXT_PUBLIC_ENABLE_TESTNETS=true
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
 
 - **Chainlink**: VRF v2.5 randomness service
 - **OpenZeppelin**: Smart contract security framework
 - **Hardhat**: Development environment
 - **Next.js**: Frontend framework
-- **Vercel**: Deployment platform
 
-## 📞 Contact
-
-- **Team**: DeFi Innovators
-- **Email**: team@defi-innovators.com
-- **Discord**: [Join our server](https://discord.gg/defi-innovators)
-- **Twitter**: [@DeFiInnovators](https://twitter.com/DeFiInnovators)
-
----
-
-**🎉 Built for Chainlink Hackathon 2025 - Showcasing the future of DeFi!**
